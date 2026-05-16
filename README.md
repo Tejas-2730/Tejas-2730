@@ -1,81 +1,138 @@
-# Hi 👋, I'm Tejas
+# 🚀 Hey there, I'm Tejas 👋
 
-## 🚀 Aspiring Software Engineer | AI & Data Science Enthusiast
+<div align="center">
 
-💡 Passionate about building AI-powered applications, solving DSA problems, and creating impactful software projects.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Enthusiast;Full+Stack+Developer;Problem+Solver+%7C+Tech+Explorer;Building+Cool+Projects+Everyday+🚀" />
 
----
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
 
-## 🔥 About Me
-
-- 🎓 B.Tech CSE Student
-- 🤖 Interested in AI, Machine Learning & Data Science
-- 🌐 MERN Stack Developer
-- 💻 Solving DSA & LeetCode Problems
-- 🚀 Building Real-World Projects
-- 📚 Currently learning Advanced AI Systems
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 💫 About Me
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+```python
+class Tejas:
+    def __init__(self):
+        self.role = "B.Tech CSE Student"
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Web Development",
+            "Data Science"
+        ]
 
-### Web Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+        self.currently_learning = [
+            "Advanced AI Systems",
+            "MERN Stack",
+            "DSA & Competitive Programming"
+        ]
 
-### AI / ML
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 Automatic Graphic Creator
-AI-powered application that generates graphics automatically using AI APIs and Flask backend.
-
-### 📊 Adaptive AI for Data Science
-Designed intelligent AI systems that adapt to multiple data science workflows and tasks.
-
-### 💬 Real-Time Chat Application
-MERN Stack chat application with authentication and real-time messaging using Socket.IO.
+    def life_goal(self):
+        return "Build impactful AI-powered applications 🚀"
+```
 
 ---
 
-## 📈 GitHub Stats
+# ⚡ Tech Arsenal
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+### 👨‍💻 Languages
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,sql"/>
 
----
+### 🚀 Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,tensorflow"/>
 
-## 🔥 GitHub Streak
+### 🛢️ Databases & Tools
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode"/>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tejas-tekkem-985734306/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/Tejas-2730)
-
-
+</div>
 
 ---
 
-## ✨ Fun Fact
+# 🚀 Featured Projects
 
-⚡ I love building AI projects and exploring new technologies.
+## 🎨 Automatic Graphic Creator
+✨ AI-powered graphic generation platform using Flask + Hugging Face APIs.
+
+## 🤖 Adaptive AI for Data Science
+📊 Intelligent AI system that adapts to different data science workflows and tasks.
+
+## 💬 Real-Time Chat Application
+⚡ MERN stack chat app with authentication & real-time messaging using Socket.IO.
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical"/>
+
+</div>
+
+---
+
+# 🧠 LeetCode & DSA
+
+<div align="center">
+
+💡 Solving problems daily to improve logical thinking and coding skills.
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-121013?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+# ⚡ Fun Fact
+
+<div align="center">
+
+💻 I can spend hours debugging and still call it fun 😎
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=flat"/>
+
+</div>
